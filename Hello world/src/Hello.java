@@ -7,6 +7,7 @@ public class Hello {
 		/* hello*/ 
 		System.out.println("This is a test");
 		/* hello*/  
+		System.out.println("Can you read this message?");
 	}
 
 }
